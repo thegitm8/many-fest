@@ -1,2 +1,2 @@
-# many-fest
+# manyfest
 CLI project manager
